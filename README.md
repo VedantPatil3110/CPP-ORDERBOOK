@@ -1,4 +1,4 @@
-# C++ Limit Order Book
+# C++  Order Book
 
 A single-threaded **price–time priority limit order book** implemented in C++.
 
